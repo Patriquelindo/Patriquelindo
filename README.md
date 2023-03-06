@@ -1,3 +1,3 @@
 - 😃 Oi, meu nome é Patrique
-- 👀 Estou no 1ª série do Ensino médio 
-- 💻Estou cursando o curso de Pensamento Computacional.
+- 👀 Estou no 2ª série do Ensino médio 
+- 💻Estou cursando o curso de Programação 
